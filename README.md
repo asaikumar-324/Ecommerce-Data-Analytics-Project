@@ -57,6 +57,17 @@ This repository includes:
 - Power BI dashboard (.pbix)
 - Project documentation (.docx)
 
+ ## Power BI Dashboard Screenshots
+
+### 1. Sales Overview
+![Sales Overview](01_Sales_Overview.png)
+
+### 2. Product Performance
+![Product Performance](02_Product_Performance.png)
+
+### 3. Customer Analysis
+![Customer Analysis](03_Customer_Analysis.png)
+
 ## Conclusion
 This project demonstrates practical data analytics skills, including data cleaning, SQL querying, data modeling, DAX calculations, and dashboard development.
 
