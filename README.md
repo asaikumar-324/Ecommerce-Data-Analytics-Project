@@ -1,6 +1,6 @@
-# Ecommerce-Data-Analytics-Project
-E-commerce Data Analytics using Excel, SQL Server and Power BI
 # E-commerce Data Analytics Project
+
+**Tools:** Excel | SQL Server | Power BI
 
 ## Project Overview
 This project focuses on analyzing e-commerce sales data to identify business trends, product performance, customer behavior, and revenue patterns.
